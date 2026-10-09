@@ -173,7 +173,7 @@ Python: pandas, NumPy, scikit-learn, statsmodels, SciPy, matplotlib, Jupyter not
 * [Leonor Couto](https://github.com/Leonor2004)
 * [Mariana Pereira](https://github.com/mfaria-p) 
 * [Simão Bernardo](https://github.com/simaozuzarte) 
-* [Sofia Fernandes]() 
+* [Sofia Fernandes](https://github.com/sofiagf04) 
 
 
 The earlier phases were developed collaboratively by the whole team. For the final version, **I worked with Sofia Fernandes on the data understanding notebook**: introducing the datasets, exploring the variables and analysing their distributions. The repository contains this notebook (`1_DU/data_understanding.ipynb`); the raw data can be downloaded from the E-REDES portal.
